@@ -1,0 +1,129 @@
+/* General Styling */
+.where-ive-worked {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 50px 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .section-title {
+    font-size: 24px;
+    color: #e6f1ff;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .section-title span {
+    font-size: 20px;
+    color: #64ffda;
+    margin-right: 10px;
+  }
+  
+  .work-content {
+    display: flex;
+    gap: 20px;
+  }
+  
+  /* Sidebar Styling */
+  .work-sidebar {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .tab-button {
+    background: transparent;
+    border: none;
+    text-align: left;
+    padding: 10px 15px;
+    color: #a8b2d1;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border-left: 2px solid transparent; /* Default transparent border */
+    padding: 15px;
+  }
+  
+  .tab-button:hover {
+    color: #64ffda;
+    background-color: rgba(100, 255, 218, 0.1);
+  }
+
+    .tab-button.inactive {
+        border-left: 2px inset #e6f1ff;
+    }
+  
+  /* Active Tab */
+.tab-button.active {
+    color: #64ffda;
+    background-color: rgba(100, 255, 218, 0.1);
+    border-left: 2px solid #64ffda; /* Darker border for the active tab */
+  }
+
+  .work-details h3 {
+    font-size: 20px;
+    color: #e6f1ff;
+    margin: 0;
+  }
+  
+  .company-name {
+    color: #64ffda;
+  }
+  
+  .work-duration {
+    font-size: 14px;
+    color: #a8b2d1;
+    margin-bottom: 20px;
+  }
+
+  /* Main Content Styling */
+.work-details {
+    flex: 3;
+    text-align: left; /* Ensure content aligns to the left */
+    padding-left: 0; /* Remove padding if any */
+  }
+  
+  .responsibilities {
+    list-style: none;
+    padding: 0; /* Remove padding from the list */
+    margin: 0; /* Remove margins */
+  }
+  
+  .responsibilities li {
+    position: relative;
+    margin-bottom: 10px;
+    padding-left: 20px; /* Add space for the bullet */
+    text-align: left; /* Align the text to the left */
+    color: #a8b2d1;
+  }
+  
+  .responsibilities li:before {
+    content: '▹'; /* Custom bullet */
+    position: absolute;
+    left: 0; /* Align bullet to the far left */
+    color: #64ffda;
+  }
+  
+  .education-details-container {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start; /* Align text and image at the top */
+  }
+  
+  .education-text {
+    flex: 2; /* Allocate more space to the text */
+  }
+  
+  .education-image {
+    flex: 1; /* Allocate less space to the image */
+  }
+  
+  .education-image img {
+    width: 100%; /* Make the image responsive */
+    max-width: 150px; /* Set a max width for consistency */
+    height: auto;
+    border-radius: 8px; /* Optional: Rounded corners */
+    object-fit: contain; /* Preserve aspect ratio */
+  }
+  

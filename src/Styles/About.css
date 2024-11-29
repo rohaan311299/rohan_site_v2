@@ -1,0 +1,150 @@
+/* General Hero Section */
+.hero {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 100px 20px;
+    font-family: Arial, sans-serif; /* Replace with your desired font */
+    text-align: left;
+  }
+  
+  /* Hero Intro Section */
+  .hero-intro-section {
+    margin-bottom: 150px;
+  }
+  
+  .hero-intro {
+    font-size: 16px;
+    color: #64ffda;
+    margin-bottom: 20px;
+  }
+  
+  .hero-name {
+    font-size: 3.5rem;
+    font-weight: bold;
+    color: #e6f1ff;
+    margin: 0;
+  }
+  
+  .hero-tagline {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #8892b0;
+    margin: 10px 0;
+  }
+  
+  .hero-description {
+    font-size: 1rem;
+    color: #a8b2d1;
+    line-height: 1.6;
+  }
+  
+  .hero-description a {
+    color: #64ffda;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .hero-description a:hover {
+    color: #ffffff;
+  }
+  
+  /* About Section */
+  .about-section {
+    margin-top: 80px;
+  }
+  
+  .section-title {
+    font-size: 24px;
+    color: #e6f1ff;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .section-title span {
+    font-size: 20px;
+    color: #64ffda;
+    margin-right: 10px;
+  }
+  
+  .about-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 30px;
+  }
+  
+  .about-text {
+    flex: 2;
+    color: #a8b2d1;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
+  .about-text a {
+    color: #64ffda;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .about-text a:hover {
+    color: #ffffff;
+  }
+  
+  .tech-list {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(140px, 200px));
+    gap: 5px;
+    padding: 0;
+    margin-top: 15px;
+    list-style: none;
+  }
+  
+  .tech-list li {
+    position: relative;
+    margin-bottom: 10px;
+    padding-left: 20px;
+  }
+  
+  .tech-list li:before {
+    content: '▹';
+    position: absolute;
+    left: 0;
+    color: #64ffda;
+  }
+  
+  .about-image {
+    flex: 1;
+    max-width: 300px;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 2px solid #64ffda;
+  }
+  
+  .about-image img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  
+  /* Contact Me Button */
+.contact-me {
+    margin-top: 50px;
+  }
+  
+  .contact-button {
+    display: inline-block;
+    padding: 10px 20px;
+    border: 2px solid #64ffda; /* Match Resume button color */
+    border-radius: 4px;
+    color: #64ffda; /* Text color */
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+  }
+  
+  .contact-button:hover {
+    background-color: #64ffda;
+    color: #ffffff; /* Text changes to white */
+  }

@@ -1,0 +1,39 @@
+[
+    {
+      "name": "LinkUp",
+      "image": "https://plus.unsplash.com/premium_photo-1683583961441-511f9498e6ed?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "name": "ProShop",
+        "image": "https://plus.unsplash.com/premium_photo-1681488262364-8aeb1b6aac56?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZWNvbW1lcmNlfGVufDB8fDB8fHww"
+    },
+    {
+        "name": "X Data Pipeline",
+        "image": "https://plus.unsplash.com/premium_photo-1681586533774-1d9d42425712?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZGF0YXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "name": "Netflix Clone",
+        "image": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "name": "Student Directory",
+        "image": "https://plus.unsplash.com/premium_photo-1677567996070-68fa4181775a?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZWR1Y2F0aW9ufGVufDB8fDB8fHww"
+    },
+    {
+        "name": "Inventory Management System",
+        "image": "https://plus.unsplash.com/premium_photo-1681426710520-7c56c9f563d2?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8SW52ZW50b3J5JTIwbWFuYWdlbWVudHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "name": "Inventory Management System",
+        "image": "https://images.unsplash.com/photo-1500298281307-dcc46bf727d8?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGNhYnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "name": "Sales Insights",
+        "image": "https://images.unsplash.com/photo-1542744173-05336fcc7ad4?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2FsZXMlMjBkYXRhfGVufDB8fDB8fHww"
+    },
+    {
+        "name": "Youtube Clone",
+        "image": "https://images.unsplash.com/photo-1649180543887-158357417159?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8eW91dHViZSUyMGxvZ298ZW58MHx8MHx8fDA%3D"
+    }
+  ]
+  

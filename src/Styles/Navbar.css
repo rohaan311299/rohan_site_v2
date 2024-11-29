@@ -1,0 +1,59 @@
+/* General Navbar Styling */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2rem;
+    height: 60px;
+  }
+  
+  /* Logo Styling */
+  .navbar-logo .logo {
+    font-weight: bold;
+    border: 2px solid; /* Placeholder border */
+    height: 24px;
+    width: 24px;
+    border-radius: 50%;
+    padding: 10px;
+    display: inline-block;
+  }
+  
+  /* Links Section */
+  .navbar-links {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar-links li {
+    font-size: 14px;
+  }
+  
+  .navbar-links a {
+    text-decoration: none;
+    color: inherit; /* Default text color */
+    transition: color 0.3s;
+  }
+  
+  .navbar-links a:hover {
+    color: #e6f1ff; /* Placeholder hover color */
+  }
+  
+  /* Resume Button */
+  .navbar-resume .resume-button {
+    border: 2px solid teal; /* Placeholder border color */
+    padding: 5px 15px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 14px;
+    color: inherit; /* Default text color */
+    transition: all 0.3s ease;
+  }
+  
+  .navbar-resume .resume-button:hover {
+    background-color: teal; /* Placeholder hover background */
+    color: #fff; /* Placeholder hover text color */
+  }
+  

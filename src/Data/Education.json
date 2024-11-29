@@ -1,0 +1,33 @@
+[
+    {
+      "university": "Carnegie Mellon University",
+      "role": "Master of Information Systems Management",
+      "startDate": "January 2023",
+      "endDate": "May 2024",
+      "coursework": [
+        "Object-Oriented Programming",
+        "Data Structures & Algorithms",
+        "Database Management Systems",
+        "Distributed Systems",
+        "Data Science for Product Management",
+        "Unstructured Data Analytics",
+        "Data Science & Big Data",
+        "Agile Methodologies"
+      ],
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0W5wKw_-3e9yCvQxVh8T1mDUTia_qdHR4xg&s"
+    },
+    {
+      "university": "University of Mumbai",
+      "role": "Bachelors of Engineering, Electronics & Telecommunication",
+      "startDate": "June 2018",
+      "endDate": "June 2022",
+      "coursework": [
+        "Structured Programming Approach in C",
+        "Image Processing and Machine Vision",
+        "Java",
+        "Database Management Systems"
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/DJSCE_Logo.png"
+    }
+  ]
+  
