@@ -9,9 +9,9 @@ function Hero() {
       <div className="hero-intro-section">
         <p className="hero-intro">Hello World !!</p>
         <h1 className="hero-name">I'm Rohan Kacheria.</h1>
-        <h2 className="hero-tagline">I build things for the web.</h2>
+        <h2 className="hero-tagline">I build scalable and efficient software solutions for a living.</h2>
         <p className="hero-description">
-          I’m a software engineer specializing in delivering seamless digital experiences. Currently, I’m developing software at <a target="_blank" href="https://nodestar.xyz/">Nodestar</a>.
+          I’m a software engineer specializing in delivering seamless digital experiences. Currently, I’m developing software at <a target="_blank" href="https://www.servicelink.com/">ServiceLink</a>.
         </p>
         {/* Contact Me Button */}
         <div className="contact-me">

@@ -1,9 +1,19 @@
 [
     {
+      "company": "ServiceLink",
+      "role": "Software Developer",
+      "startDate": "February 2025",
+      "endDate": "Present",
+      "responsibilities": [
+        
+      ],
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMuF3x_uYnOMnsIEIcFQFvvFTnkzLdLyadQQ&s"
+    },
+    {
       "company": "Nodestar",
       "role": "Software Development Engineer",
       "startDate": "November 2024",
-      "endDate": "Present",
+      "endDate": "January 2025",
       "responsibilities": [
         "Engineered a multimodal agentic RAG using PhiData and Vectorized Search to develop a chat system for efficiency querying.",
         "Implemented custom actions that were integrated into the LLM, enabling the system to generate context-sensitive responses.",
